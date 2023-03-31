@@ -5,3 +5,6 @@ feature auto merge
 リモート側の追加
 
 こいつをadd,commitしないでpullするよ
+ローカルで変更されてaadd,commitしてないらしいがリモート側も編集するよ
+ローカル変更がなんかあるのでコミットかstashかしてくれといわれたので、そうした
+
