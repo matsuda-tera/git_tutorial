@@ -1,1 +1,4 @@
 ture
+
+feature auto merge
+:
